@@ -6,5 +6,8 @@ public class MyTest {
 		System.out.println("ffffddddffffffffff呃呃呃fffffffffffddddf");
         System.out.println("ffffddddfffffff得到fff呃呃呃fffffffffffddddf");
 		System.out.println("ffdddcffff得到fffffffffffffffffffddddf");
+		System.out.println("ffffddddffffffffff呃呃呃fffffffffffddddf");
+                System.out.println("ffffddddfffffff得到fff呃呃呃fffffffffffddddf");
+		System.out.println("ffdddcffff得到fffffffffffffffffffddddf");
 	}
 }
